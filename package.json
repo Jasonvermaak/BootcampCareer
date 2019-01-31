@@ -25,7 +25,12 @@
   "homepage": "https://github.com/Jasonvermaak/BootcampCareer#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "mongoose": "^5.4.6"
+    "mongoose": "^5.4.6",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-mdl": "^1.11.0",
+    "react-router-dom": "^4.3.1",
+    "semantic-ui": "^2.4.2"
   },
   "devDependencies": {
     "concurrently": "^4.1.0",
